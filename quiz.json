@@ -1,0 +1,607 @@
+[
+   {
+      "category_id": "ไอดีใส่ไรก็ได้ใส่มาก่อน",
+      "category_name": "ชื่อประเภทคำถาม",
+      "category_img": "ลิงค์รูปภาพ(ขอแนวนอน)",
+      "proposition": [
+         {
+            "id": "เลขไอดี ห้ามซ้ำ",
+            "quiz": "คำถาม",
+            "choice": [
+               { "id": 1, "name": "ตัวเลือก 1" },
+               { "id": 2, "name": "ตัวเลือก 2" },
+               { "id": 3, "name": "ตัวเลือก 3" },
+               { "id": 4, "name": "ตัวเลือก 4" }
+            ],
+            "result": [
+               {
+                  "id": 1,
+                  "name": "ผลลัพท์ถ้าเลือก 1",
+                  "img": "ลิงค์รูปภาพ(ขอแนวนอน)"
+               },
+               {
+                  "id": 2,
+                  "name": "ผลลัพท์ถ้าเลือก 2",
+                  "img": "ลิงค์รูปภาพ(ขอแนวนอน)"
+               },
+               {
+                  "id": 3,
+                  "name": "ผลลัพท์ถ้าเลือก 3",
+                  "img": "ลิงค์รูปภาพ(ขอแนวนอน)"
+               },
+               {
+                  "id": 4,
+                  "name": "ผลลัพท์ถ้าเลือก 4",
+                  "img": "ลิงค์รูปภาพ(ขอแนวนอน)"
+               }
+            ]
+         }
+      ],
+      "ref": "ลิงค์อ้างอิง"
+   },
+   {
+      "category_id": 1,
+      "category_name": "ค้นหาความจริงกับบุคลิกเร้นลับที่คุณซ่อนไว้",
+      "category_img": "https://www.cityvariety.com/files/old_quiz/20121228082023msday.jpg",
+      "proposition": [
+         {
+            "id": 1,
+            "quiz": "คุณชอบเก้าอี้แบบไหน?",
+            "choice": [
+               {
+                  "id": 1,
+                  "name": "เก้าอี้บุผ้า"
+               },
+               {
+                  "id": 2,
+                  "name": "เก้าอี้บุหนัง"
+               },
+               {
+                  "id": 3,
+                  "name": "เก้าอี้ไม้"
+               },
+               {
+                  "id": 4,
+                  "name": "เก้าอี้นวม"
+               }
+            ],
+            "result": [
+               {
+                  "id": 1,
+                  "name": "คุณอยากให้คนรัก...อยู่กับคุณตลอดเวลาไม่ว่าจะเป็นที่ไหนหรือเมื่อไหร่",
+                  "img": "https://i2.wp.com/akanekshopping.com/wp-content/uploads/2018/07/92245wd.jpg?fit=960%2C640&ssl=1"
+               },
+               {
+                  "id": 2,
+                  "name": "คุณอยากให้คนรัก...เปิดใจ เปิดเผยเรื่องราวของเขา/เธอกับคุณให้มากยิ่งขึ้น",
+                  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTXU-BT68nJlP6Lc7f9Z3GkNaRWhwAs7fTGOezkf7gfRCaUxzwt"
+               },
+               {
+                  "id": 3,
+                  "name": "คุณอยากให้คนรัก...ใส่ใจกับเสื้อผ้าหรือมารยาทของเขา/เธอมากกว่านี้",
+                  "img": "https://c.lnwfile.com/fdco38.jpg"
+               },
+               {
+                  "id": 4,
+                  "name": "คุณอยากให้คนรัก...ผ่อนคลาย วางตัวสงบเสงี่ยมมากกว่านี้",
+                  "img": "https://image.shutterstock.com/image-photo/sofa-isolated-on-white-background-260nw-1570766671.jpg"
+               }
+            ]
+         },
+         {
+            "id": 2,
+            "quiz": "มีกล่องใบหนึ่งวางอยู่บนถนน ข้างในนั้นมีอะไรนะ?",
+            "choice": [
+               {
+                  "id": 1,
+                  "name": "ลูกแมวถูกทิ้ง"
+               },
+               {
+                  "id": 2,
+                  "name": "ขยะ"
+               },
+               {
+                  "id": 3,
+                  "name": "สมบัติ"
+               },
+               {
+                  "id": 4,
+                  "name": "เซอร์ไพรส์"
+               }
+            ],
+            "result": [
+               {
+                  "id": 1,
+                  "name": "คุณคิดว่าโชค...ขึ้นอยู่กับการมีความสัมพันธ์ที่ดีกับคนอื่น",
+                  "img": "https://dog-vs-cat.com/wp-content/uploads/2019/01/bba1-4.jpg"
+               },
+               {
+                  "id": 2,
+                  "name": "คุณคิดว่าโชค...เป็นสิ่งที่คุณไม่มี คุณจะคาดการณ์ถึงโชคร้ายเสมอ",
+                  "img": "https://www.thaihealth.or.th/data/content/2018/11/45642/cms/newscms_thaihealth_c_cdfnpruvw569.jpg"
+               },
+               {
+                  "id": 3,
+                  "name": "คุณคิดว่าโชค...โชคจะเป็นของคุณ...สักวันน่ะนะ",
+                  "img": "https://c.pxhere.com/photos/a3/09/treasure_chest_chest_jewellery_open_lighting-1235532.jpg!s"
+               },
+               {
+                  "id": 4,
+                  "name": "คุณคิดว่าโชค...คุณอาจจะมีโชคก็ได้ แต่ถ้าถึงเวลานั้นจริงๆ คุณจะประหลาดใจเสียจนต้องหัวเราะออกมา",
+                  "img": "https://previews.123rf.com/images/hamzaali01/hamzaali011705/hamzaali01170500471/78587883-surprise-letters-vector-word-banner-sign.jpg"
+               }
+            ]
+         },
+         {
+            "id": 3,
+            "quiz": "พรุ่งนี้เป็นวันอาทิตย์ คุณมีแผนจะทำอะไร?",
+            "choice": [
+               {
+                  "id": 1,
+                  "name": "อยู่บ้านสบาย ๆ"
+               },
+               {
+                  "id": 2,
+                  "name": "ไปช้อปปิ้ง"
+               },
+               {
+                  "id": 3,
+                  "name": "ไปเล่นกีฬา"
+               },
+               {
+                  "id": 4,
+                  "name": "ไปเดินเล่น"
+               }
+            ],
+            "result": [
+               {
+                  "id": 1,
+                  "name": "ในแง่ของการจับจ่าย...คุณใช้จ่ายน้อยที่สุดเท่าที่จะเป็นไปได้",
+                  "img": "https://lh3.googleusercontent.com/proxy/nyWyrQrQdRrCggXkXcAnKxsLpLUWd_hxi7U5ulqdD2tK88bzTqunS0PYFDA5sCnTuHWSOeFRSPd1Qa7TsSGcPg40ECZvUN3lxJObdT-8fvRP1kh5mqnHagMP4gSzYGD43jsrGg"
+               },
+               {
+                  "id": 2,
+                  "name": "ในแง่ของการจับจ่าย...มีเท่าไหร่คุณก็ใช้เท่านั้น",
+                  "img": "https://previews.123rf.com/images/rawpixel/rawpixel1711/rawpixel171107480/90814671-girlfriends-going-shopping-concept.jpg"
+               },
+               {
+                  "id": 3,
+                  "name": "ในแง่ของการจับจ่าย...คุณเก็บเงินไว้สำหรับวันที่ลำบาก",
+                  "img": "https://th.mancity.com/-/media/galleries/mcwfc/2019/february/mcwfc-training-pre-chelsea/mm1_1148.ashx?width=1024&height=576"
+               },
+               {
+                  "id": 4,
+                  "name": "ในแง่ของการจับจ่าย...ใช้จ่ายเงินอย่างระมัดระวัง มีสลึงพึงบรรจบให้ครบบาท",
+                  "img": "https://s3living.com/wp-content/uploads/2018/04/FFL_SurpriseBeneWalking_400.jpg"
+               }
+            ]
+         },
+         {
+            "id": 4,
+            "quiz": "ถ้าคุณไปสวนสัตว์จะดูอะไรก่อน?",
+            "choice": [
+               {
+                  "id": 1,
+                  "name": "แพนด้าสิ! เป็นสัตว์ที่ป๊อปปูลาร์ที่สุดนี่นา"
+               },
+               {
+                  "id": 2,
+                  "name": "สัตว์ที่ได้รับความนิยมรองลงมา เพราะคนจะไม่ไปดูเยอะ"
+               },
+               {
+                  "id": 3,
+                  "name": "สัตว์ที่ใกล้กับทางเข้าที่สุด"
+               },
+               {
+                  "id": 4,
+                  "name": "อะไรก็ได้ที่อยู่ในเส้นทางที่เขาแนะนำและเป็นทางที่คุณกำลังจะไปพอดี"
+               }
+            ],
+            "result": [
+               {
+                  "id": 1,
+                  "name": "บุคลิกที่ซ่อนอยู่ของคุณมีลักษณะ...หลงใหลไปกับกระแสและแฟชั่น คุณเป็นคนชอบแสดงออกและอยากให้คนอื่นสนใจ",
+                  "img": "https://cdn.pixabay.com/photo/2018/12/14/15/46/panda-3875289__340.jpg"
+               },
+               {
+                  "id": 2,
+                  "name": "บุคลิกที่ซ่อนอยู่ของคุณมีลักษณะ...ไม่ค่อยยอมรับสิ่งต่างๆ ในแบบที่มันเป็นนัก โดยรวมแล้วคุณมักจะมองโลกในแง่ร้ายเลยล่ะ",
+                  "img": "https://cardim.org/blog/wp-content/uploads/2018/06/%E7%8C%AB_%E3%81%AF%E3%81%81%EF%BC%9F-1.jpg"
+               },
+               {
+                  "id": 3,
+                  "name": "บุคลิกที่ซ่อนอยู่ของคุณมีลักษณะ...พอใจที่จะดูแลสิ่งซึ่งไม่ต้องใช้ความพยายามมากนัก",
+                  "img": "https://cdn4.vectorstock.com/i/1000x1000/21/28/entrance-facade-of-zoo-vector-23962128.jpg"
+               },
+               {
+                  "id": 4,
+                  "name": "บุคลิกที่ซ่อนอยู่ของคุณมีลักษณะ...มีระบบระเบียบและกฎเกณฑ์ในแบบของคุณ คุณอาจมีปัญหาในการปรับตัวเข้ากับกฎของสังคมเล็กน้อยนะ",
+                  "img": "https://gdb.voanews.com/87E6104B-511B-41EB-84CB-88868F127999_cx0_cy4_cw0_w408_r1_s.jpg"
+               }
+            ]
+         },
+         {
+            "id": 5,
+            "quiz": "คุณจะซื้อของขวัญแบบไหนให้เพื่อนที่สนิทกันมากๆ?",
+            "choice": [
+               {
+                  "id": 1,
+                  "name": "ผ้าเช็ดหน้า (เพราะว่าเพื่อนของคุณชอบ ไม่ว่าเขาจะมีผ้าเช็ดหน้าเยอะแค่ไหนแล้วก็ตาม)"
+               },
+               {
+                  "id": 2,
+                  "name": "อะไรก็ได้ที่คุณชอบ"
+               },
+               {
+                  "id": 3,
+                  "name": "อะไรก็ได้ที่เพื่อนของคุณอยากได้มานาน"
+               },
+               {
+                  "id": 4,
+                  "name": "อะไรก็ได้ที่กำลังเป็นที่นิยมอยู่ในขณะนี้"
+               }
+            ],
+            "result": [
+               {
+                  "id": 1,
+                  "name": "ความสัมพันธ์กับคนรอบข้างของคุณมีลักษณะ...คุณไม่สามารถจะเชื่อมโยงกับคนอื่นได้อย่างสนิทใจ เมื่อมีภารกิจอยู่ตรงหน้า คุณมักจะหลงทางมากกว่า",
+                  "img": "https://2.bp.blogspot.com/-mHIN3bcqVdw/WH3ZJrbyROI/AAAAAAAAByI/zJkcJ142zBc5-p7hHPo46s3C6IDiiDaWwCLcB/s1600/1382352904-o.jpg"
+               },
+               {
+                  "id": 2,
+                  "name": "ความสัมพันธ์กับคนรอบข้างของคุณมีลักษณะ...คุณเป็นคนแบบที่คิดว่าโลกหมุนรอบตัวเอง",
+                  "img": "https://sayingimages.com/wp-content/uploads/whatever-dude-meme.jpg"
+               },
+               {
+                  "id": 3,
+                  "name": "ความสัมพันธ์กับคนรอบข้างของคุณมีลักษณะ...คุณมักจะคิดถึงความคิดของคนอื่นอยู่มาก บางทีอาจเป็นเพราะคุณอยากให้คนอื่นชอบ",
+                  "img": "https://www.memecreator.org/static/images/memes/4540147.jpg"
+               },
+               {
+                  "id": 4,
+                  "name": "ความสัมพันธ์กับคนรอบข้างของคุณมีลักษณะ...คุณให้ความสนใจกับกระแสโลกและแฟชั่นมากกว่าที่คุณจะคิดถึงความคิดของตัวเองหรือของคนรอบตัว",
+                  "img": "https://pics.astrologymemes.com/yeah-ok-whatever-memes-com-17807895.png"
+               }
+            ]
+         }
+      ],
+      "ref": "https://horoscope.kapook.com/view35269.html"
+   },
+   {
+      "category_id": 2,
+      "category_name": "คุณเป็นคนแบบไหน?",
+      "category_img": "https://lh3.googleusercontent.com/rKyhWa7CLZaTsI3ifbgO0TllFRD4eUrow7zc-VKNTDGmlJ-ivCQreRhs2DofFYlgEgU1qoIBUYjmclmFUs-fow=s320-l65",
+      "proposition": [
+         {
+            "id": 1,
+            "quiz": "ถ้าแม่ใช้ให้ไปซื้อของ คิดว่าแม่ใช้ให้ไปซื้ออะไร?",
+            "choice": [
+               {
+                  "id": 1,
+                  "name": "นม"
+               },
+               {
+                  "id": 2,
+                  "name": "ขนมปัง"
+               },
+               {
+                  "id": 3,
+                  "name": "เค้ก"
+               },
+               {
+                  "id": 4,
+                  "name": "หนังสือพิมพ์"
+               }
+            ],
+            "result": [
+               {
+                  "id": 1,
+                  "name": "เป็นคนเงียบๆ ชอบอยู่คนเดียว มีอะไรก็มักจะเก็บไว้ในใจ อ่อนไหว และช่างฝัน",
+                  "img": "https://lh3.googleusercontent.com/proxy/cWoBFHe1g_2ZOsDIYi_WKiGUkV7KzQt7Yx5iiUXDdzMcpSjv2CMfbS3ONk7WjFCpiB4vxryItVPd4RlvFMwroBAArKgDRPulLGnz"
+               },
+               {
+                  "id": 2,
+                  "name": "เป็นสาวสังคม ชอบทำงาน มีความมั่นใจ ไม่ว่าเรื่องอะไรก็ดูท้าทายไปหมด",
+                  "img": "https://food.mthai.com/app/uploads/2012/07/%E0%B8%82%E0%B8%99%E0%B8%A1%E0%B8%9B%E0%B8%B1%E0%B8%87%E0%B8%9B%E0%B8%AD%E0%B8%99%E0%B8%94%E0%B9%8C-300x241.jpg"
+               },
+               {
+                  "id": 3,
+                  "name": "เป็นคนสดใส ร่าเริง นำแฟชั่น อยู่ที่ไหนเป็นต้องเด่น ไม่เด่นเมื่อไหร่กลุ้มใจเมื่อนั้น",
+                  "img": "https://kingbakeryhouse.com/upload-img/Fruit.gif"
+               },
+               {
+                  "id": 4,
+                  "name": "เป็นคนรักครอบครัวมากกก ระหว่างไปเที่ยวกับเพื่อนกับอยู่กับครอบครัว  คุณเลือกอยู่กับครอบครัวชัวร์ๆเลย คุณปลื้มครอบครัวของคุณอย่างกับอะไรดี",
+                  "img": "https://i.ytimg.com/vi/zcu6V9tO8ms/maxresdefault.jpg"
+               }
+            ]
+         },
+         {
+            "id": 2,
+            "quiz": "ถ้าคุณวิ่งหนีหมาตัวหนึ่ง เหตุผลคือ?",
+            "choice": [
+               {
+                  "id": 1,
+                  "name": "กลัวมันน่ะสิ...ถามได้"
+               },
+               {
+                  "id": 2,
+                  "name": "กลัวว่าน้องหมาจะแย่งของกินที่ถือมา"
+               },
+               {
+                  "id": 3,
+                  "name": "เล่นกับมัน เก่งจริงวิ่งตามมาสิ"
+               }
+            ],
+            "result": [
+               {
+                  "id": 1,
+                  "name": "คุณปรารถนาความรักที่น่ารัก กุ๊กกิ๊ก หานใส่กันทุกวัน Happy!!",
+                  "img": "https://image.dogilike.com/shareimg/contentimg/2012/meaw/Health9/8.jpg"
+               },
+               {
+                  "id": 2,
+                  "name": "รักที่คุณต้องการต้องเคารพนับถือกันได้ ถ้าเขาไม่มีดีให้ทึ่ง คุณก็ไม่รักเขาหรอก",
+                  "img": "https://s.isanook.com/wo/0/rp/r/w728/ya0xa0m1w0/aHR0cHM6Ly9zLmlzYW5vb2suY29tL3dvLzAvdWQvNi8zMDM2NS9kMS5qcGc=.jpg"
+               },
+               {
+                  "id": 3,
+                  "name": "คุณปรารถนารักแบบเพื่อนที่เปิดอกคุยกันได้ทุกเรื่อง",
+                  "img": "https://image.dogilike.com/shareimg/contentimg/2013/pungpond/16-4/Dog-Frisbee.jpg"
+               }
+            ]
+         },
+         {
+            "id": 3,
+            "quiz": "ถ้าวิ่งหนีหมาตัวนั้นจนมาเจอกำแพงสูง จะทำยังไง?",
+            "choice": [
+               {
+                  "id": 1,
+                  "name": "ลอดช่องเล็กๆ ที่กำแพงออกไป"
+               },
+               {
+                  "id": 2,
+                  "name": "ปีนบันไดข้ามไปสิ"
+               },
+               {
+                  "id": 3,
+                  "name": "มองหาประตูก่อนเลย"
+               }
+            ],
+            "result": [
+               {
+                  "id": 1,
+                  "name": "คุณกำลังตั้งหน้าตั้งตารอ รัก สุดๆ วันหนึ่ง...ถ้ามีความรักกะเขาก็สนุกล่ะ!",
+                  "img": "https://lh3.googleusercontent.com/proxy/yr8OJC9W1CryVKUSTVTrEIsVT6wKWzOfc5xLtkuwDEUwPH-PJxp59VYwbQblkjHW555m7dRUwmcjDdcHNE1tZ9v_J_cD4SB7V79z3QgrcrHG8m5aQ0qqRQ"
+               },
+               {
+                  "id": 2,
+                  "name": "คุณไม่ค่อยแฮปปี้กับเรื่องรักเท่าไหร่นัก เพราะเข็ดขยาดกับรักที่ผ่านมา มีรักใหม่เข้ามาก็ยังหวั่นๆ ไม่กล้าเปิดใจตัวเอง",
+                  "img": "https://www.thairath.co.th/media/dFQROr7oWzulq5FZYjXZ4W89pskZ21KJc5FTuyHHLdDRcyrnX4dyRiFSQGIOycNfFzI.jpg"
+               },
+               {
+                  "id": 3,
+                  "name": "คุณเชื่อเรื่องพรหมลิขิต ถึงเวลาความรักก็มาเองล่ะ ไม่ได้ตั้งหน้าตั้งตารอเล้ยยย แต่ละวันไม่เคยคิดเรื่องรักๆ หรอก",
+                  "img": "https://lh3.googleusercontent.com/proxy/4qCxrpFyzwkFGQ1cI58ndo9tHHK-pfn287awMADSmZlthmqq7jbumUzF9rFnwzAOLdd-2JJrsKcy7WduiT9LrbTNaJgzEmKub5_w_ZKQ"
+               }
+            ]
+         },
+         {
+            "id": 4,
+            "quiz": "มองไกลไปหลังแนวป่า คุณคิดว่าจะเป็นปราสาทแบบไหน?",
+            "choice": [
+               {
+                  "id": 1,
+                  "name": "ปราสาทสวยเหมือนออกจากหนังสือดีไซน์"
+               },
+               {
+                  "id": 2,
+                  "name": "ปราสาทหินโบราณ"
+               },
+               {
+                  "id": 3,
+                  "name": "ปราสาทที่ส่องระยิบระยับ"
+               }
+            ],
+            "result": [
+               {
+                  "id": 1,
+                  "name": "คุณอยากให้ใครๆ อิจฉาและทึ่งในตัวคุณ คุณอยากจะเก่งและโดดเด่นในสายตาคนอื่น",
+                  "img": "https://cdn.jeab.com/wp-content/uploads/2014/11/1.-Castle-Howard-Yorkshire.jpg"
+               },
+               {
+                  "id": 2,
+                  "name": "คุณอยากให้ทุกคนเห็นความตั้งใจจริงของคุณ ไม่ว่าจะเป็นเรื่องงานหรือการคบเพื่อน ใจ สำคัญสำหรับคุณมาก",
+                  "img": "https://mpics.mgronline.com/pics/Images/562000009973502.JPEG"
+               },
+               {
+                  "id": 3,
+                  "name": "เงินคือสิ่งที่คุณปรารถนา ถ้ามีเงินมากคุณก็จะรู้สึกมั่นใจได้",
+                  "img": "https://travel.mthai.com/app/uploads/2018/09/Buriram-Phanom-Rung-2558-_01-e1427082686783.jpg"
+               }
+            ]
+         },
+         {
+            "id": 5,
+            "quiz": "คุณเข้าป่าเดินทางไปที่ปราสาทหลังนั้น คุณคิดว่าที่ป่านั้นจะเจอกับสัตว์อะไร?",
+            "choice": [
+               {
+                  "id": 1,
+                  "name": "กระรอก"
+               },
+               {
+                  "id": 2,
+                  "name": "กวาง"
+               },
+               {
+                  "id": 3,
+                  "name": "หมี"
+               },
+               {
+                  "id": 4,
+                  "name": "เสือ"
+               }
+            ],
+            "result": [
+               {
+                  "id": 1,
+                  "name": "คุณมั่นใจว่าคุณเป็นคนเก่ง ขืนเขาเก่งด้วยทะเลาะกันตายเยย ชอบคนว่านอนสอนง่าย",
+                  "img": "https://thestandard.co/wp-content/uploads/2017/09/Squirrel_cover_.jpg"
+               },
+               {
+                  "id": 2,
+                  "name": "คุณปรารถนาคู่รักแบบเพื่อน คุยกันได้ทุกเรื่อง มีสิทธิ์เท่าเทียมกัน ไม่มีใครนำใคร อย่างนี้แหละแจ๋ว!!",
+                  "img": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Pere_David_Deer_-_Woburn_Deer_park_%285108236985%29.jpg"
+               },
+               {
+                  "id": 3,
+                  "name": "คุณชอบคนที่เข้มแข็ง ปกป้องได้",
+                  "img": "https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_4000/https://chimlang.com/wp-content/uploads/shutterstock_533274355.jpg"
+               },
+               {
+                  "id": 4,
+                  "name": "คุณชอบคนเก่ง ฉลาด เป็นผู้นำ เพราะคุณขี้อ้อนชอบเป็นผู้ตาม",
+                  "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Panthera_tigris_altaica_female.jpg/1200px-Panthera_tigris_altaica_female.jpg"
+               }
+            ]
+         }
+      ],
+      "ref": "https://www.dek-d.com/lifestyle/7460/"
+   },
+   {
+      "category_id": 3,
+      "category_name": "ทายบุคลิกและลักษณะนิสัยของคุณ",
+      "category_img": "https://images.unsplash.com/photo-1445810694374-0a94739e4a03?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1416&q=80",
+      "proposition": [
+         {
+            "id": 1,
+            "quiz": "คุณสามารถช่วยชีวิตสัตว์ได้หนึ่งชนิด หากโลกจะแตกคุณจะเลือกช่วยอะไร",
+            "choice": [
+               { "id": 1, "name": "กระต่าย", "img": "https://images.unsplash.com/photo-1517750421976-9cf1c2145d4a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"},
+               { "id": 2, "name": "แกะ", "img": "https://images.unsplash.com/photo-1484557985045-edf25e08da73?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80"},
+               { "id": 3, "name": "กวาง", "img": "https://images.unsplash.com/photo-1543782248-03e2c5a93e18?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80"},
+               { "id": 4, "name": "ม้า", "img": "https://images.unsplash.com/flagged/photo-1557296126-ae91316e5746?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"}
+            ],
+            "result": [
+               { "id": 1, "name": "กระต่าย เหตุผลทางจิตวิทยาคือ คุณชอบคนที่รักสันโดษ มองภายนอกเป็นคนสงบนิ่ง ซึ่งต่างจากภายในที่ร้อนเหมือนไฟ", "img": "https://images.unsplash.com/photo-1499084732479-de2c02d45fcc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1489&q=80"},
+               { "id": 2, "name": "แกะ เหตุผลทางจิตวิทยาคือ คุณชอบคนที่ดูอบอุ่นและเชื่อฟังคุณ", "img": "https://images.unsplash.com/photo-1511988617509-a57c8a288659?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80"},
+               { "id": 3, "name": "กวาง เหตุผลทางจิตวิทยาคือ คุณชอบคนบุคลิกดี สง่างามและดูภูมิฐานป็น", "img": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80"},
+               { "id": 4, "name": "ม้า เหตุผลทางจิตวิทยาคือ คุณชอบคนที่รักอิสระเสรี ไม่ชอบทำอะไรตามกฏเกณฑ์และ เป็นตัวของตัวเอง ", "img": "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80" }
+            ]
+         },
+         {
+            "id": 2,
+            "quiz": "หากคุณได้เดินทางเพื่อไปเยี่ยมชมเผ่าพื้นเมืองแห่งหนึ่งในแอฟริกาขากลับเขาจะให้ สัตว์อย่างหนึ่งเพื่อเป็น ที่ระลึก คุณจะเลือกตัวอะไร",
+            "choice": [
+               { "id": 1, "name": "ลิง", "img": "https://images.unsplash.com/photo-1496953317327-f44e96b5332a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"},
+               { "id": 2, "name": "สิงโต", "img": "https://images.unsplash.com/photo-1575550959106-5a7defe28b56?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"},
+               { "id": 3, "name": "งู", "img": "https://images.unsplash.com/photo-1528158222524-d4d912d2e208?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1024&q=80"},
+               { "id": 4, "name": "ยีราฟ", "img": "https://images.unsplash.com/photo-1553521306-9728831d2983?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80" }
+            ],
+            "result": [
+               { "id": 1, "name": "ลิง เหตุผลทางจิตวิทยาคือ คุณชอบการจีบแบบสร้างสรรค์มีอะไรแปลกใหม่มาให้คุณประหลาดใจอยู่เสมอเพราะนั่นจะทำให้คุณไม่รู้สึกเบื่อ", "img": "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"},
+               { "id": 2, "name": "สิงโต เหตุผลทางจิตวิทยาคือ คุณชอบการจีบแบบตรงไปตรงมาหากรักก็บอกว่ารักกันไปเลย", "img": "https://images.unsplash.com/photo-1474552226712-ac0f0961a954?ixlib=rb-1.2.1&auto=format&fit=crop&w=1051&q=80"},
+               { "id": 3, "name": "งู เหตุผลทางจิตวิทยาคือ คุณชอบการจีบแบบที่ดูโลเลไม่แน่นอนบางครั้งเขาทำเหมือนรักคุณมากมายแต่บางครั้งก็แกล้งทำเหมือนไม่ใส่ใจคุณเลยเพราะนั่นจะทำให้คุณรู้สึกตื่นเต้นและท้าทายตลอดเวลา", "img": "https://images.unsplash.com/photo-1472733086270-7936ee56d1f1?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"},
+               { "id": 4, "name": "ยีราฟ เหตุผลทางจิตวิทยาคือ คุณชอบการจีบแบบที่แสดงถึงความอดทนจริงใจและพร้อมที่จะให้อภัยคุณได้ทุกอย่าง", "img": "https://images.unsplash.com/photo-1513279922550-250c2129b13a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80" }
+            ]
+         },
+         {
+            "id": 3,
+            "quiz": "ถ้าคุณได้ทำผิดแล้วถูกพระเจ้าลงโทษสาบให้เป็นสัตว์คุณจะเลือกเป็นตัวอะไร",
+            "choice": [
+               { "id": 1, "name": "สุนัข", "img": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"},
+               { "id": 2, "name": "แมว", "img": "https://images.unsplash.com/photo-1494256997604-768d1f608cac?ixlib=rb-1.2.1&auto=format&fit=crop&w=1101&q=80"},
+               { "id": 3, "name": "ม้า", "img": "https://images.unsplash.com/flagged/photo-1557296126-ae91316e5746?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"},
+               { "id": 4, "name": "งู", "img": "https://images.unsplash.com/photo-1528158222524-d4d912d2e208?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1024&q=80"}
+            ],
+            "result": [
+               { "id": 1, "name": "สุนัข เหตุผลทางจิตวิทยาคือ ความซื่อสัตย์ความมั่นคงและจริงใจที่ไม่เคยเปลี่ยนแปลง", "img": "https://images.unsplash.com/photo-1494859632785-32abaf5241f4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1078&q=80"},
+               { "id": 2, "name": "แมว เหตุผลทางจิตวิทยาคือ ความโก้เก๋ความมีรสนิยมในตัวเขา", "img": "https://images.unsplash.com/photo-1493146146946-e907f69cdf23?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1190&q=80"},
+               { "id": 3, "name": "ม้า เหตุผลทางจิตวิทยาคือ การมองโลกในแง่ดีของเขา", "img": "https://images.unsplash.com/photo-1560285843-9d9d94edff8a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"},
+               { "id": 4, "name": "งู เหตุผลทางจิตวิทยาคือ ความเป็นคนง่ายๆสบายๆและไม่เรื่องมากของเขา", "img": "https://images.unsplash.com/photo-1471560090527-d1af5e4e6eb6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80" }
+            ]
+         },
+         {
+            "id": 4,
+            "quiz": "ถ้าคุณมีอำนาจคุณอยากจะเสกให้สัตว์ชนิดใดหายสาบสูญไปจากโลกตลอดกาล",
+            "choice": [
+               { "id": 1, "name": "สิงโต", "img": "https://images.unsplash.com/photo-1575550959106-5a7defe28b56?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"},
+               { "id": 2, "name": "งู", "img": "https://images.unsplash.com/photo-1528158222524-d4d912d2e208?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1024&q=80"},
+               { "id": 3, "name": "จระเข้", "img": "https://images.unsplash.com/photo-1515825369633-ca5a241eced4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"},
+               { "id": 4, "name": "ฉลาม", "img": "https://images.unsplash.com/photo-1560275619-4662e36fa65c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1076&q=80" }
+            ],
+            "result": [
+               { "id": 1, "name": "สิงโต เหตุผลทางจิตวิทยาคือ การถือตัว หยิ่งยโสและชอบดูถูกคนของเขา", "img": ""},
+               { "id": 2, "name": "งู เหตุผลทางจิตวิทยาคือ อารมณ์ขึ้นๆ ลงๆ เดี๋ยวดีเดี๋ยวร้ายของเขา", "img": ""},
+               { "id": 3, "name": "จระเข้ เหตุผลทางจิตวิทยาคือ ความก้าวร้าว หยาบกระด้างของเขา", "img": ""},
+               { "id": 4, "name": "ฉลาม เหตุผลทางจิตวิทยาคือ อาการขี้ตกกังวลและความไม่มั่นใจในตัวเองของเขา ", "img": "" }
+            ]
+         },
+         {
+            "id": 5,
+            "quiz": "ถามว่าคุณอยากจะให้สัตว์ชนิดใดพูดภาษาคนได้มากที่สุด",
+            "choice": [
+               { "id": 1, "name": "แกะ", "img": "https://images.unsplash.com/photo-1484557985045-edf25e08da73?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80"},
+               { "id": 2, "name": "ม้า", "img": "https://images.unsplash.com/flagged/photo-1557296126-ae91316e5746?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"},
+               { "id": 3, "name": "กระต่าย", "img": "https://images.unsplash.com/photo-1517750421976-9cf1c2145d4a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"},
+               { "id": 4, "name": "นก", "img": "https://images.unsplash.com/photo-1522926193341-e9ffd686c60f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"}
+            ],
+            "result": [
+               { "id": 1, "name": "แกะ เหตุผลทางจิตวิทยาคือ สามารถเข้าอกเข้าใจกันได้และสื่อสารกันด้วยสายตาโดยจำเป็นต้องพูดออกมาและดำเนินความสัมพันธ์ไปเหมือนที่คนรุ่นพ่อแม่เคยปฏิบัติ", "img": "https://images.unsplash.com/photo-1557425493-6f90ae4659fc?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"},
+               { "id": 2, "name": "ม้า เหตุผลทางจิตวิทยาคือ สามารถเปิดอกพูดคุยกันได้ทุกเรื่องโดยไม่มีความลับต่อกัน", "img": "https://images.unsplash.com/photo-1562086780-1c95244efd6b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"},
+               { "id": 3, "name": "กระต่าย เหตุผลทางจิตวิทยาคือ มีสัมพันธภาพที่อบอุ่นและรักกันหวานชื่นตลอดเวลา", "img": "https://images.unsplash.com/photo-1525026198548-4baa812f1183?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1233&q=80"},
+               { "id": 4, "name": "นก เหตุผลทางจิตวิทยาคือ มีความสัมพันธ์ที่มั่นคงยาวนานเพราะคุณมองไปถึงการสร้างอนาคตร่วมกันด้วย", "img": "https://images.unsplash.com/photo-1532712938310-34cb3982ef74?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80" }
+            ]
+         },
+         {
+            "id": 6,
+            "quiz": "หากต้องติดอยู่บนเกาะร้างกลางมหาสมุทร คุณอยากจะให้ใครไปอยู่เป็นเพื่อน",
+            "choice": [
+               { "id": 1, "name": "มนุษย์", "img": "https://images.unsplash.com/photo-1504593811423-6dd665756598?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"},
+               { "id": 2, "name": "หมู", "img": "https://images.unsplash.com/photo-1537033206914-9d3551ff8103?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"},
+               { "id": 3, "name": "วัว", "img": "https://images.unsplash.com/photo-1525086765708-69e59648c887?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"},
+               { "id": 4, "name": "นก", "img": "https://images.unsplash.com/photo-1522926193341-e9ffd686c60f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"}
+            ],
+            "result": [
+               { "id": 1, "name": "มนุษย์ เหตุผลทางจิตวิทยาคือ คุณเป็นคนแคร์สังคมและศีลธรรม คุณจะไม่คิดนอกใจหลังจากแต่งงานแล้วเด็ดขาด", "img": "https://images.unsplash.com/photo-1553102674-af685bb5fe40?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"},
+               { "id": 2, "name": "หมู เหตุผลทางจิตวิทยาคือ คุณทนต่อการยั่วยุไม่ค่อยได้ดังนั้นมีแนวโน้มที่คุณจะคิดนอกใจ", "img": "https://images.unsplash.com/photo-1508918312503-44c5ee00a088?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1352&q=80"},
+               { "id": 3, "name": "วัว เหตุผลทางจิตวิทยาคือ คุณมีความอดทนอดกลั้นดีเยี่ยมคุณพยายามที่จะไม่ให้เหตุการณ์นั้นเกิดขึ้น", "img": "https://images.unsplash.com/photo-1565946606128-949cfcbebd3e?ixlib=rb-1.2.1&auto=format&fit=crop&w=1352&q=80"},
+               { "id": 4, "name": "นก เหตุผลทางจิตวิทยาคือ คุณไม่มีความอดทนดังนั้นมีโอกาสที่จะกระทำสิ่งที่ไม่เหมาะสมหากมีแรงยั่วยุ ", "img": "https://images.unsplash.com/photo-1544717301-9cdcb1f5940f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80" }
+            ]
+         },
+         {
+            "id": 7,
+            "quiz": "ถ้ามีเวทมนต์คุณอยากจะเสกให้สัตว์ชนิดใดเป็นสัตว์เลี้ยง",
+            "choice": [
+               { "id": 1, "name": "ไดโนเสาร์", "img": "https://images.unsplash.com/photo-1548662954-1b1abc035c46?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"},
+               { "id": 2, "name": "เสือขาว", "img": "https://images.unsplash.com/photo-1503066211613-c17ebc9daef0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"},
+               { "id": 3, "name": "หมีขั้วโลก", "img": "https://images.unsplash.com/photo-1433769614376-f7231cd16a55?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"},
+               { "id": 4, "name": "เสือดาว", "img": "https://images.unsplash.com/photo-1569691105751-88df003de7a4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80" }
+            ],
+            "result": [
+               { "id": 1, "name": "ไดโนเสาร์ เหตุผลทางจิตวิทยาคือ คุณเป็นคนมองโลกแง่ร้ายไม่อยากแต่งงาน", "img": "https://images.unsplash.com/photo-1494459158735-82f8feb14abb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1366&q=80"},
+               { "id": 2, "name": "เสือขาว เหตุผลทางจิตวิทยาคือ คุณคิดว่าการแต่งงานเป็นสิ่งที่มีค่าถ้าได้แต่งงานคุณจะประคับประคองชีวิตคู่ให้คงไว้ตลอดไป", "img": "https://images.unsplash.com/photo-1527529482837-4698179dc6ce?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"},
+               { "id": 3, "name": "หมีขั้วโลก เหตุผลทางจิตวิทยาคือ คุณกลัวการแต่งงานเพราะคิดว่ามันอาจทำให้คุณหมดอิสระ", "img": "https://images.unsplash.com/photo-1573164574144-649081e9421a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjM0MTM2fQ&auto=format&fit=crop&w=1350&q=80"},
+               { "id": 4, "name": "เสือดาว เหตุผลทางจิตวิทยาคือ คุณอยากแต่งงาน ทั้งๆ ที่ความจริงแล้วคุณไม่รู้อะไรเกี่ยวกับเรื่องการใช้ชีวิตคู่เลย ", "img": "https://images.unsplash.com/photo-1552711566-7e58cb1eeafd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80" }
+            ]
+         },
+         {
+            "id": 8,
+            "quiz": "คุณจะเลือกเป็นตัวอะไรถ้าหากสามารถแปลงเป็นสัตว์ได้ 5 นาที",
+            "choice": [
+               { "id": 1, "name": "สิงโต", "img": "https://images.unsplash.com/photo-1575550959106-5a7defe28b56?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"},
+               { "id": 2, "name": "แมว", "img": "https://images.unsplash.com/photo-1494256997604-768d1f608cac?ixlib=rb-1.2.1&auto=format&fit=crop&w=1401&q=80"},
+               { "id": 3, "name": "ม้า", "img": "https://images.unsplash.com/flagged/photo-1557296126-ae91316e5746?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"},
+               { "id": 4, "name": "นกพิราบ", "img": "https://images.unsplash.com/photo-1507126882445-434b04530d1a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80" }
+            ],
+            "result": [
+               { "id": 1, "name": "สิงโต เหตุผลทางจิตวิทยาคือ คุณมักจะเหนื่อยเสมอในเรื่องของความรักเพราะคุณยอมทำได้ทุกอย่างเพื่อคนที่รักแต่ก็ใช่ว่าคุณจะตกหลุมรักใครง่ายๆ", "img": "https://images.unsplash.com/photo-1531747056595-07f6cbbe10ad?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"},
+               { "id": 2, "name": "แมว เหตุผลทางจิตวิทยาคือ คุณรักตัวเองมากกว่าและคุณก็คิดว่าความรักเป็นแค่อารมณ์อะไรบางอย่างที่เกิดขึ้นเป็นครั้งคราวเท่านั้น", "img": "https://images.unsplash.com/photo-1499284389287-0d055f557eb5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"},
+               { "id": 3, "name": " ม้า เหตุผลทางจิตวิทยาคือ คุณไม่ต้องการจะทุ่มเทอะไรมากมายเพื่อความรักแต่สิ่งที่คุณทำไปทุกอย่างก็เพราะไม่อยากจะอยู่คนเดียวเพียงลำพังในโลกใบนี้เท่านั้น", "img": "https://images.unsplash.com/photo-1534630103086-5b1c106f74e0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1489&q=80"},
+               { "id": 4, "name": "นกพิราบ เหตุผลทางจิตวิทยาคือ คุณคิดว่าความรักนั้นคือการเปิดใจยอมรับที่จะใช้ชีวิตคู่กับใครสักคน", "img": "https://images.unsplash.com/photo-1522315641900-874dc98a7cbb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80" }
+            ]
+         }
+      ],
+      "ref": "https://horoscope.thaiza.com/content/95139/"
+   }   
+]
