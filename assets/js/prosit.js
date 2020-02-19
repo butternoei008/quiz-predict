@@ -28,7 +28,7 @@ function showResult(choice_id, proposi_id, proposits) {
          </div>
          <div>
             <h2 class="text-muted text-regular">${predict.name}</h2>
-            <div class="text-center">
+            <div class="text-center" style="margin-top: 2rem;">
                <a class="btn btn-primary" href="index.html">กลับหน้าแรก</a>
                <a class="btn btn-warning" href="">เล่นอีกครั้ง</a>
             </div>
