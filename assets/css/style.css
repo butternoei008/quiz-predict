@@ -12,8 +12,13 @@ html, body {
   font-family: "prompt";
   background-image: url('../img/SpacePNG.png');
   background-size: cover;
+  background-attachment: fixed;
   width: 100%;
   height: 100%;
+}
+
+#quiz-content {
+  padding: 1rem;
 }
 
 div.container {
@@ -68,10 +73,39 @@ div.container {
   border: 2px solid rgba(255, 255, 255, 0.2);
   border-radius: 0.25rem;
   box-shadow: 3px 3px 10px 1px rgba(0, 0, 0, 0.5);;
+  transition: .5s;
+}
+
+#quiz-content .card:hover {
+  transform: translateY(-0.5rem);
 }
 
 .card-body {
   padding: 0.5rem;
+}
+
+.card-img-top {
+  width: 100%;
+  border-top-left-radius: calc(0.25rem - 1px);
+  border-top-right-radius: calc(0.25rem - 1px);
+  position: relative;
+  overflow: hidden;
+}
+
+.card-img-top::after {
+  content: '';
+  display: block;
+  height: 0;
+  padding-top: 50%;
+}
+
+.card-img-top img {
+  width: 100%;
+  position: absolute;
+}
+
+.font-quiz {
+  font-size: 1.2rem;
 }
 
 .text-default {
@@ -92,6 +126,14 @@ div.container {
 .text-white {
   color: #fff;
 }
+
+.text-muted {
+  color: #9e9e9e;
+}
+
+.text-regular {
+  font-weight: none;
+} 
 
 .align-center {
   display: flex;
@@ -116,6 +158,10 @@ div.container {
 
 .w-100 {
   width: 100%;
+}
+
+.h-100 {
+  height: 100%;
 }
 
 .row {
@@ -209,6 +255,22 @@ div.container {
   font-size: 1.3rem;
 }
 
+.btn {
+  border-radius: 0.25rem;
+  background-color: #9e9e9e;
+  text-decoration: none;
+  color: #fff;
+  padding: 1rem;
+}
+
+.btn-primary {
+  background-color: #007BFF;
+}
+
+.btn-warning { 
+  background-color: #FFC107;
+}
+
 .choice-a, .choice-b, .choice-c, .choice-d {  
   color: #fff;
   padding: 1.5rem 1rem;
@@ -273,4 +335,22 @@ div.container {
   position: absolute;
   top: -20px;
   height: 100%;
+}
+
+@media screen and (max-width: 768px) {
+  .col-1,
+  .col-2,
+  .col-3,
+  .col-4,
+  .col-5,
+  .col-6,
+  .col-7,
+  .col-8,
+  .col-9,
+  .col-10,
+  .col-11,
+  .col-12 {
+    flex: 0 0 100%;
+    max-width: 100%;
+  }
 }

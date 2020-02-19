@@ -1,45 +1,5 @@
 [
    {
-      "category_id": "ไอดีใส่ไรก็ได้ใส่มาก่อน",
-      "category_name": "ชื่อประเภทคำถาม",
-      "category_img": "ลิงค์รูปภาพ(ขอแนวนอน)",
-      "proposition": [
-         {
-            "id": "เลขไอดี ห้ามซ้ำ",
-            "quiz": "คำถาม",
-            "choice": [
-               { "id": 1, "name": "ตัวเลือก 1" },
-               { "id": 2, "name": "ตัวเลือก 2" },
-               { "id": 3, "name": "ตัวเลือก 3" },
-               { "id": 4, "name": "ตัวเลือก 4" }
-            ],
-            "result": [
-               {
-                  "id": 1,
-                  "name": "ผลลัพท์ถ้าเลือก 1",
-                  "img": "ลิงค์รูปภาพ(ขอแนวนอน)"
-               },
-               {
-                  "id": 2,
-                  "name": "ผลลัพท์ถ้าเลือก 2",
-                  "img": "ลิงค์รูปภาพ(ขอแนวนอน)"
-               },
-               {
-                  "id": 3,
-                  "name": "ผลลัพท์ถ้าเลือก 3",
-                  "img": "ลิงค์รูปภาพ(ขอแนวนอน)"
-               },
-               {
-                  "id": 4,
-                  "name": "ผลลัพท์ถ้าเลือก 4",
-                  "img": "ลิงค์รูปภาพ(ขอแนวนอน)"
-               }
-            ]
-         }
-      ],
-      "ref": "ลิงค์อ้างอิง"
-   },
-   {
       "category_id": 1,
       "category_name": "ค้นหาความจริงกับบุคลิกเร้นลับที่คุณซ่อนไว้",
       "category_img": "https://www.cityvariety.com/files/old_quiz/20121228082023msday.jpg",
@@ -157,7 +117,7 @@
                {
                   "id": 1,
                   "name": "ในแง่ของการจับจ่าย...คุณใช้จ่ายน้อยที่สุดเท่าที่จะเป็นไปได้",
-                  "img": "https://lh3.googleusercontent.com/proxy/nyWyrQrQdRrCggXkXcAnKxsLpLUWd_hxi7U5ulqdD2tK88bzTqunS0PYFDA5sCnTuHWSOeFRSPd1Qa7TsSGcPg40ECZvUN3lxJObdT-8fvRP1kh5mqnHagMP4gSzYGD43jsrGg"
+                  "img": "https://images.unsplash.com/photo-1512552288940-3a300922a275?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1051&q=80"
                },
                {
                   "id": 2,
@@ -297,7 +257,7 @@
                {
                   "id": 1,
                   "name": "เป็นคนเงียบๆ ชอบอยู่คนเดียว มีอะไรก็มักจะเก็บไว้ในใจ อ่อนไหว และช่างฝัน",
-                  "img": "https://lh3.googleusercontent.com/proxy/cWoBFHe1g_2ZOsDIYi_WKiGUkV7KzQt7Yx5iiUXDdzMcpSjv2CMfbS3ONk7WjFCpiB4vxryItVPd4RlvFMwroBAArKgDRPulLGnz"
+                  "img": "https://images.unsplash.com/photo-1521232002294-6d1cb35b6f8c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1080&q=80"
                },
                {
                   "id": 2,
@@ -372,7 +332,7 @@
                {
                   "id": 1,
                   "name": "คุณกำลังตั้งหน้าตั้งตารอ รัก สุดๆ วันหนึ่ง...ถ้ามีความรักกะเขาก็สนุกล่ะ!",
-                  "img": "https://lh3.googleusercontent.com/proxy/yr8OJC9W1CryVKUSTVTrEIsVT6wKWzOfc5xLtkuwDEUwPH-PJxp59VYwbQblkjHW555m7dRUwmcjDdcHNE1tZ9v_J_cD4SB7V79z3QgrcrHG8m5aQ0qqRQ"
+                  "img": "https://images.unsplash.com/photo-1577733034640-3e13ec1b200a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"
                },
                {
                   "id": 2,
@@ -382,7 +342,7 @@
                {
                   "id": 3,
                   "name": "คุณเชื่อเรื่องพรหมลิขิต ถึงเวลาความรักก็มาเองล่ะ ไม่ได้ตั้งหน้าตั้งตารอเล้ยยย แต่ละวันไม่เคยคิดเรื่องรักๆ หรอก",
-                  "img": "https://lh3.googleusercontent.com/proxy/4qCxrpFyzwkFGQ1cI58ndo9tHHK-pfn287awMADSmZlthmqq7jbumUzF9rFnwzAOLdd-2JJrsKcy7WduiT9LrbTNaJgzEmKub5_w_ZKQ"
+                  "img": "https://images.unsplash.com/photo-1580406276655-1e0f1c84f605?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1052&q=80"
                }
             ]
          },
@@ -477,131 +437,371 @@
             "id": 1,
             "quiz": "คุณสามารถช่วยชีวิตสัตว์ได้หนึ่งชนิด หากโลกจะแตกคุณจะเลือกช่วยอะไร",
             "choice": [
-               { "id": 1, "name": "กระต่าย", "img": "https://images.unsplash.com/photo-1517750421976-9cf1c2145d4a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"},
-               { "id": 2, "name": "แกะ", "img": "https://images.unsplash.com/photo-1484557985045-edf25e08da73?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80"},
-               { "id": 3, "name": "กวาง", "img": "https://images.unsplash.com/photo-1543782248-03e2c5a93e18?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80"},
-               { "id": 4, "name": "ม้า", "img": "https://images.unsplash.com/flagged/photo-1557296126-ae91316e5746?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"}
+               {
+                  "id": 1,
+                  "name": "กระต่าย",
+                  "img": "https://images.unsplash.com/photo-1517750421976-9cf1c2145d4a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+               },
+               {
+                  "id": 2,
+                  "name": "แกะ",
+                  "img": "https://images.unsplash.com/photo-1484557985045-edf25e08da73?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80"
+               },
+               {
+                  "id": 3,
+                  "name": "กวาง",
+                  "img": "https://images.unsplash.com/photo-1543782248-03e2c5a93e18?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80"
+               },
+               {
+                  "id": 4,
+                  "name": "ม้า",
+                  "img": "https://images.unsplash.com/flagged/photo-1557296126-ae91316e5746?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+               }
             ],
             "result": [
-               { "id": 1, "name": "กระต่าย เหตุผลทางจิตวิทยาคือ คุณชอบคนที่รักสันโดษ มองภายนอกเป็นคนสงบนิ่ง ซึ่งต่างจากภายในที่ร้อนเหมือนไฟ", "img": "https://images.unsplash.com/photo-1499084732479-de2c02d45fcc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1489&q=80"},
-               { "id": 2, "name": "แกะ เหตุผลทางจิตวิทยาคือ คุณชอบคนที่ดูอบอุ่นและเชื่อฟังคุณ", "img": "https://images.unsplash.com/photo-1511988617509-a57c8a288659?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80"},
-               { "id": 3, "name": "กวาง เหตุผลทางจิตวิทยาคือ คุณชอบคนบุคลิกดี สง่างามและดูภูมิฐานป็น", "img": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80"},
-               { "id": 4, "name": "ม้า เหตุผลทางจิตวิทยาคือ คุณชอบคนที่รักอิสระเสรี ไม่ชอบทำอะไรตามกฏเกณฑ์และ เป็นตัวของตัวเอง ", "img": "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80" }
+               {
+                  "id": 1,
+                  "name": "กระต่าย เหตุผลทางจิตวิทยาคือ คุณชอบคนที่รักสันโดษ มองภายนอกเป็นคนสงบนิ่ง ซึ่งต่างจากภายในที่ร้อนเหมือนไฟ",
+                  "img": "https://images.unsplash.com/photo-1499084732479-de2c02d45fcc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1489&q=80"
+               },
+               {
+                  "id": 2,
+                  "name": "แกะ เหตุผลทางจิตวิทยาคือ คุณชอบคนที่ดูอบอุ่นและเชื่อฟังคุณ",
+                  "img": "https://images.unsplash.com/photo-1511988617509-a57c8a288659?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80"
+               },
+               {
+                  "id": 3,
+                  "name": "กวาง เหตุผลทางจิตวิทยาคือ คุณชอบคนบุคลิกดี สง่างามและดูภูมิฐานป็น",
+                  "img": "https://images.unsplash.com/photo-1507679799987-c73779587ccf?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1351&q=80"
+               },
+               {
+                  "id": 4,
+                  "name": "ม้า เหตุผลทางจิตวิทยาคือ คุณชอบคนที่รักอิสระเสรี ไม่ชอบทำอะไรตามกฏเกณฑ์และ เป็นตัวของตัวเอง",
+                  "img": "https://images.unsplash.com/photo-1490730141103-6cac27aaab94?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+               }
             ]
          },
          {
             "id": 2,
             "quiz": "หากคุณได้เดินทางเพื่อไปเยี่ยมชมเผ่าพื้นเมืองแห่งหนึ่งในแอฟริกาขากลับเขาจะให้ สัตว์อย่างหนึ่งเพื่อเป็น ที่ระลึก คุณจะเลือกตัวอะไร",
             "choice": [
-               { "id": 1, "name": "ลิง", "img": "https://images.unsplash.com/photo-1496953317327-f44e96b5332a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"},
-               { "id": 2, "name": "สิงโต", "img": "https://images.unsplash.com/photo-1575550959106-5a7defe28b56?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"},
-               { "id": 3, "name": "งู", "img": "https://images.unsplash.com/photo-1528158222524-d4d912d2e208?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1024&q=80"},
-               { "id": 4, "name": "ยีราฟ", "img": "https://images.unsplash.com/photo-1553521306-9728831d2983?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80" }
+               {
+                  "id": 1,
+                  "name": "ลิง",
+                  "img": "https://images.unsplash.com/photo-1496953317327-f44e96b5332a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"
+               },
+               {
+                  "id": 2,
+                  "name": "สิงโต",
+                  "img": "https://images.unsplash.com/photo-1575550959106-5a7defe28b56?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"
+               },
+               {
+                  "id": 3,
+                  "name": "งู",
+                  "img": "https://images.unsplash.com/photo-1528158222524-d4d912d2e208?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1024&q=80"
+               },
+               {
+                  "id": 4,
+                  "name": "ยีราฟ",
+                  "img": "https://images.unsplash.com/photo-1553521306-9728831d2983?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"
+               }
             ],
             "result": [
-               { "id": 1, "name": "ลิง เหตุผลทางจิตวิทยาคือ คุณชอบการจีบแบบสร้างสรรค์มีอะไรแปลกใหม่มาให้คุณประหลาดใจอยู่เสมอเพราะนั่นจะทำให้คุณไม่รู้สึกเบื่อ", "img": "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"},
-               { "id": 2, "name": "สิงโต เหตุผลทางจิตวิทยาคือ คุณชอบการจีบแบบตรงไปตรงมาหากรักก็บอกว่ารักกันไปเลย", "img": "https://images.unsplash.com/photo-1474552226712-ac0f0961a954?ixlib=rb-1.2.1&auto=format&fit=crop&w=1051&q=80"},
-               { "id": 3, "name": "งู เหตุผลทางจิตวิทยาคือ คุณชอบการจีบแบบที่ดูโลเลไม่แน่นอนบางครั้งเขาทำเหมือนรักคุณมากมายแต่บางครั้งก็แกล้งทำเหมือนไม่ใส่ใจคุณเลยเพราะนั่นจะทำให้คุณรู้สึกตื่นเต้นและท้าทายตลอดเวลา", "img": "https://images.unsplash.com/photo-1472733086270-7936ee56d1f1?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"},
-               { "id": 4, "name": "ยีราฟ เหตุผลทางจิตวิทยาคือ คุณชอบการจีบแบบที่แสดงถึงความอดทนจริงใจและพร้อมที่จะให้อภัยคุณได้ทุกอย่าง", "img": "https://images.unsplash.com/photo-1513279922550-250c2129b13a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80" }
+               {
+                  "id": 1,
+                  "name": "ลิง เหตุผลทางจิตวิทยาคือ คุณชอบการจีบแบบสร้างสรรค์มีอะไรแปลกใหม่มาให้คุณประหลาดใจอยู่เสมอเพราะนั่นจะทำให้คุณไม่รู้สึกเบื่อ",
+                  "img": "https://images.unsplash.com/photo-1530103862676-de8c9debad1d?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"
+               },
+               {
+                  "id": 2,
+                  "name": "สิงโต เหตุผลทางจิตวิทยาคือ คุณชอบการจีบแบบตรงไปตรงมาหากรักก็บอกว่ารักกันไปเลย",
+                  "img": "https://images.unsplash.com/photo-1474552226712-ac0f0961a954?ixlib=rb-1.2.1&auto=format&fit=crop&w=1051&q=80"
+               },
+               {
+                  "id": 3,
+                  "name": "งู เหตุผลทางจิตวิทยาคือ คุณชอบการจีบแบบที่ดูโลเลไม่แน่นอนบางครั้งเขาทำเหมือนรักคุณมากมายแต่บางครั้งก็แกล้งทำเหมือนไม่ใส่ใจคุณเลยเพราะนั่นจะทำให้คุณรู้สึกตื่นเต้นและท้าทายตลอดเวลา",
+                  "img": "https://images.unsplash.com/photo-1472733086270-7936ee56d1f1?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"
+               },
+               {
+                  "id": 4,
+                  "name": "ยีราฟ เหตุผลทางจิตวิทยาคือ คุณชอบการจีบแบบที่แสดงถึงความอดทนจริงใจและพร้อมที่จะให้อภัยคุณได้ทุกอย่าง",
+                  "img": "https://images.unsplash.com/photo-1513279922550-250c2129b13a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"
+               }
             ]
          },
          {
             "id": 3,
             "quiz": "ถ้าคุณได้ทำผิดแล้วถูกพระเจ้าลงโทษสาบให้เป็นสัตว์คุณจะเลือกเป็นตัวอะไร",
             "choice": [
-               { "id": 1, "name": "สุนัข", "img": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"},
-               { "id": 2, "name": "แมว", "img": "https://images.unsplash.com/photo-1494256997604-768d1f608cac?ixlib=rb-1.2.1&auto=format&fit=crop&w=1101&q=80"},
-               { "id": 3, "name": "ม้า", "img": "https://images.unsplash.com/flagged/photo-1557296126-ae91316e5746?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"},
-               { "id": 4, "name": "งู", "img": "https://images.unsplash.com/photo-1528158222524-d4d912d2e208?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1024&q=80"}
+               {
+                  "id": 1,
+                  "name": "สุนัข",
+                  "img": "https://images.unsplash.com/photo-1548199973-03cce0bbc87b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"
+               },
+               {
+                  "id": 2,
+                  "name": "แมว",
+                  "img": "https://images.unsplash.com/photo-1494256997604-768d1f608cac?ixlib=rb-1.2.1&auto=format&fit=crop&w=1101&q=80"
+               },
+               {
+                  "id": 3,
+                  "name": "ม้า",
+                  "img": "https://images.unsplash.com/flagged/photo-1557296126-ae91316e5746?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+               },
+               {
+                  "id": 4,
+                  "name": "งู",
+                  "img": "https://images.unsplash.com/photo-1528158222524-d4d912d2e208?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1024&q=80"
+               }
             ],
             "result": [
-               { "id": 1, "name": "สุนัข เหตุผลทางจิตวิทยาคือ ความซื่อสัตย์ความมั่นคงและจริงใจที่ไม่เคยเปลี่ยนแปลง", "img": "https://images.unsplash.com/photo-1494859632785-32abaf5241f4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1078&q=80"},
-               { "id": 2, "name": "แมว เหตุผลทางจิตวิทยาคือ ความโก้เก๋ความมีรสนิยมในตัวเขา", "img": "https://images.unsplash.com/photo-1493146146946-e907f69cdf23?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1190&q=80"},
-               { "id": 3, "name": "ม้า เหตุผลทางจิตวิทยาคือ การมองโลกในแง่ดีของเขา", "img": "https://images.unsplash.com/photo-1560285843-9d9d94edff8a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"},
-               { "id": 4, "name": "งู เหตุผลทางจิตวิทยาคือ ความเป็นคนง่ายๆสบายๆและไม่เรื่องมากของเขา", "img": "https://images.unsplash.com/photo-1471560090527-d1af5e4e6eb6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80" }
+               {
+                  "id": 1,
+                  "name": "สุนัข เหตุผลทางจิตวิทยาคือ ความซื่อสัตย์ความมั่นคงและจริงใจที่ไม่เคยเปลี่ยนแปลง",
+                  "img": "https://images.unsplash.com/photo-1494859632785-32abaf5241f4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1078&q=80"
+               },
+               {
+                  "id": 2,
+                  "name": "แมว เหตุผลทางจิตวิทยาคือ ความโก้เก๋ความมีรสนิยมในตัวเขา",
+                  "img": "https://images.unsplash.com/photo-1493146146946-e907f69cdf23?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1190&q=80"
+               },
+               {
+                  "id": 3,
+                  "name": "ม้า เหตุผลทางจิตวิทยาคือ การมองโลกในแง่ดีของเขา",
+                  "img": "https://images.unsplash.com/photo-1560285843-9d9d94edff8a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"
+               },
+               {
+                  "id": 4,
+                  "name": "งู เหตุผลทางจิตวิทยาคือ ความเป็นคนง่ายๆสบายๆและไม่เรื่องมากของเขา",
+                  "img": "https://images.unsplash.com/photo-1471560090527-d1af5e4e6eb6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"
+               }
             ]
          },
          {
             "id": 4,
             "quiz": "ถ้าคุณมีอำนาจคุณอยากจะเสกให้สัตว์ชนิดใดหายสาบสูญไปจากโลกตลอดกาล",
             "choice": [
-               { "id": 1, "name": "สิงโต", "img": "https://images.unsplash.com/photo-1575550959106-5a7defe28b56?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"},
-               { "id": 2, "name": "งู", "img": "https://images.unsplash.com/photo-1528158222524-d4d912d2e208?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1024&q=80"},
-               { "id": 3, "name": "จระเข้", "img": "https://images.unsplash.com/photo-1515825369633-ca5a241eced4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"},
-               { "id": 4, "name": "ฉลาม", "img": "https://images.unsplash.com/photo-1560275619-4662e36fa65c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1076&q=80" }
+               { "id": 1, "name": "สิงโต" },
+               { "id": 2, "name": "งู" },
+               { "id": 3, "name": "จระเข้" },
+               { "id": 4, "name": "ฉลาม" }
             ],
             "result": [
-               { "id": 1, "name": "สิงโต เหตุผลทางจิตวิทยาคือ การถือตัว หยิ่งยโสและชอบดูถูกคนของเขา", "img": ""},
-               { "id": 2, "name": "งู เหตุผลทางจิตวิทยาคือ อารมณ์ขึ้นๆ ลงๆ เดี๋ยวดีเดี๋ยวร้ายของเขา", "img": ""},
-               { "id": 3, "name": "จระเข้ เหตุผลทางจิตวิทยาคือ ความก้าวร้าว หยาบกระด้างของเขา", "img": ""},
-               { "id": 4, "name": "ฉลาม เหตุผลทางจิตวิทยาคือ อาการขี้ตกกังวลและความไม่มั่นใจในตัวเองของเขา ", "img": "" }
+               {
+                  "id": 1,
+                  "name": "สิงโต เหตุผลทางจิตวิทยาคือ การถือตัว หยิ่งยโสและชอบดูถูกคนของเขา",
+                  "img": "https://images.unsplash.com/photo-1575550959106-5a7defe28b56?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"
+               },
+               {
+                  "id": 2,
+                  "name": "งู เหตุผลทางจิตวิทยาคือ อารมณ์ขึ้นๆ ลงๆ เดี๋ยวดีเดี๋ยวร้ายของเขา",
+                  "img": "https://images.unsplash.com/photo-1528158222524-d4d912d2e208?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1024&q=80"
+               },
+               {
+                  "id": 3,
+                  "name": "จระเข้ เหตุผลทางจิตวิทยาคือ ความก้าวร้าว หยาบกระด้างของเขา",
+                  "img": "https://images.unsplash.com/photo-1515825369633-ca5a241eced4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"
+               },
+               {
+                  "id": 4,
+                  "name": "ฉลาม เหตุผลทางจิตวิทยาคือ อาการขี้ตกกังวลและความไม่มั่นใจในตัวเองของเขา",
+                  "img": "https://images.unsplash.com/photo-1560275619-4662e36fa65c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1076&q=80"
+               }
             ]
          },
          {
             "id": 5,
             "quiz": "ถามว่าคุณอยากจะให้สัตว์ชนิดใดพูดภาษาคนได้มากที่สุด",
             "choice": [
-               { "id": 1, "name": "แกะ", "img": "https://images.unsplash.com/photo-1484557985045-edf25e08da73?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80"},
-               { "id": 2, "name": "ม้า", "img": "https://images.unsplash.com/flagged/photo-1557296126-ae91316e5746?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"},
-               { "id": 3, "name": "กระต่าย", "img": "https://images.unsplash.com/photo-1517750421976-9cf1c2145d4a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"},
-               { "id": 4, "name": "นก", "img": "https://images.unsplash.com/photo-1522926193341-e9ffd686c60f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"}
+               {
+                  "id": 1,
+                  "name": "แกะ",
+                  "img": "https://images.unsplash.com/photo-1484557985045-edf25e08da73?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80"
+               },
+               {
+                  "id": 2,
+                  "name": "ม้า",
+                  "img": "https://images.unsplash.com/flagged/photo-1557296126-ae91316e5746?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+               },
+               {
+                  "id": 3,
+                  "name": "กระต่าย",
+                  "img": "https://images.unsplash.com/photo-1517750421976-9cf1c2145d4a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+               },
+               {
+                  "id": 4,
+                  "name": "นก",
+                  "img": "https://images.unsplash.com/photo-1522926193341-e9ffd686c60f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"
+               }
             ],
             "result": [
-               { "id": 1, "name": "แกะ เหตุผลทางจิตวิทยาคือ สามารถเข้าอกเข้าใจกันได้และสื่อสารกันด้วยสายตาโดยจำเป็นต้องพูดออกมาและดำเนินความสัมพันธ์ไปเหมือนที่คนรุ่นพ่อแม่เคยปฏิบัติ", "img": "https://images.unsplash.com/photo-1557425493-6f90ae4659fc?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"},
-               { "id": 2, "name": "ม้า เหตุผลทางจิตวิทยาคือ สามารถเปิดอกพูดคุยกันได้ทุกเรื่องโดยไม่มีความลับต่อกัน", "img": "https://images.unsplash.com/photo-1562086780-1c95244efd6b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"},
-               { "id": 3, "name": "กระต่าย เหตุผลทางจิตวิทยาคือ มีสัมพันธภาพที่อบอุ่นและรักกันหวานชื่นตลอดเวลา", "img": "https://images.unsplash.com/photo-1525026198548-4baa812f1183?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1233&q=80"},
-               { "id": 4, "name": "นก เหตุผลทางจิตวิทยาคือ มีความสัมพันธ์ที่มั่นคงยาวนานเพราะคุณมองไปถึงการสร้างอนาคตร่วมกันด้วย", "img": "https://images.unsplash.com/photo-1532712938310-34cb3982ef74?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80" }
+               {
+                  "id": 1,
+                  "name": "แกะ เหตุผลทางจิตวิทยาคือ สามารถเข้าอกเข้าใจกันได้และสื่อสารกันด้วยสายตาโดยจำเป็นต้องพูดออกมาและดำเนินความสัมพันธ์ไปเหมือนที่คนรุ่นพ่อแม่เคยปฏิบัติ",
+                  "img": "https://images.unsplash.com/photo-1557425493-6f90ae4659fc?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80"
+               },
+               {
+                  "id": 2,
+                  "name": "ม้า เหตุผลทางจิตวิทยาคือ สามารถเปิดอกพูดคุยกันได้ทุกเรื่องโดยไม่มีความลับต่อกัน",
+                  "img": "https://images.unsplash.com/photo-1562086780-1c95244efd6b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+               },
+               {
+                  "id": 3,
+                  "name": "กระต่าย เหตุผลทางจิตวิทยาคือ มีสัมพันธภาพที่อบอุ่นและรักกันหวานชื่นตลอดเวลา",
+                  "img": "https://images.unsplash.com/photo-1525026198548-4baa812f1183?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1233&q=80"
+               },
+               {
+                  "id": 4,
+                  "name": "นก เหตุผลทางจิตวิทยาคือ มีความสัมพันธ์ที่มั่นคงยาวนานเพราะคุณมองไปถึงการสร้างอนาคตร่วมกันด้วย",
+                  "img": "https://images.unsplash.com/photo-1532712938310-34cb3982ef74?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+               }
             ]
          },
          {
             "id": 6,
             "quiz": "หากต้องติดอยู่บนเกาะร้างกลางมหาสมุทร คุณอยากจะให้ใครไปอยู่เป็นเพื่อน",
             "choice": [
-               { "id": 1, "name": "มนุษย์", "img": "https://images.unsplash.com/photo-1504593811423-6dd665756598?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"},
-               { "id": 2, "name": "หมู", "img": "https://images.unsplash.com/photo-1537033206914-9d3551ff8103?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"},
-               { "id": 3, "name": "วัว", "img": "https://images.unsplash.com/photo-1525086765708-69e59648c887?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"},
-               { "id": 4, "name": "นก", "img": "https://images.unsplash.com/photo-1522926193341-e9ffd686c60f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"}
+               {
+                  "id": 1,
+                  "name": "มนุษย์",
+                  "img": "https://images.unsplash.com/photo-1504593811423-6dd665756598?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+               },
+               {
+                  "id": 2,
+                  "name": "หมู",
+                  "img": "https://images.unsplash.com/photo-1537033206914-9d3551ff8103?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+               },
+               {
+                  "id": 3,
+                  "name": "วัว",
+                  "img": "https://images.unsplash.com/photo-1525086765708-69e59648c887?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80"
+               },
+               {
+                  "id": 4,
+                  "name": "นก",
+                  "img": "https://images.unsplash.com/photo-1522926193341-e9ffd686c60f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+               }
             ],
             "result": [
-               { "id": 1, "name": "มนุษย์ เหตุผลทางจิตวิทยาคือ คุณเป็นคนแคร์สังคมและศีลธรรม คุณจะไม่คิดนอกใจหลังจากแต่งงานแล้วเด็ดขาด", "img": "https://images.unsplash.com/photo-1553102674-af685bb5fe40?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"},
-               { "id": 2, "name": "หมู เหตุผลทางจิตวิทยาคือ คุณทนต่อการยั่วยุไม่ค่อยได้ดังนั้นมีแนวโน้มที่คุณจะคิดนอกใจ", "img": "https://images.unsplash.com/photo-1508918312503-44c5ee00a088?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1352&q=80"},
-               { "id": 3, "name": "วัว เหตุผลทางจิตวิทยาคือ คุณมีความอดทนอดกลั้นดีเยี่ยมคุณพยายามที่จะไม่ให้เหตุการณ์นั้นเกิดขึ้น", "img": "https://images.unsplash.com/photo-1565946606128-949cfcbebd3e?ixlib=rb-1.2.1&auto=format&fit=crop&w=1352&q=80"},
-               { "id": 4, "name": "นก เหตุผลทางจิตวิทยาคือ คุณไม่มีความอดทนดังนั้นมีโอกาสที่จะกระทำสิ่งที่ไม่เหมาะสมหากมีแรงยั่วยุ ", "img": "https://images.unsplash.com/photo-1544717301-9cdcb1f5940f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80" }
+               {
+                  "id": 1,
+                  "name": "มนุษย์ เหตุผลทางจิตวิทยาคือ คุณเป็นคนแคร์สังคมและศีลธรรม คุณจะไม่คิดนอกใจหลังจากแต่งงานแล้วเด็ดขาด",
+                  "img": "https://images.unsplash.com/photo-1553102674-af685bb5fe40?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+               },
+               {
+                  "id": 2,
+                  "name": "หมู เหตุผลทางจิตวิทยาคือ คุณทนต่อการยั่วยุไม่ค่อยได้ดังนั้นมีแนวโน้มที่คุณจะคิดนอกใจ",
+                  "img": "https://images.unsplash.com/photo-1508918312503-44c5ee00a088?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1352&q=80"
+               },
+               {
+                  "id": 3,
+                  "name": "วัว เหตุผลทางจิตวิทยาคือ คุณมีความอดทนอดกลั้นดีเยี่ยมคุณพยายามที่จะไม่ให้เหตุการณ์นั้นเกิดขึ้น",
+                  "img": "https://images.unsplash.com/photo-1565946606128-949cfcbebd3e?ixlib=rb-1.2.1&auto=format&fit=crop&w=1352&q=80"
+               },
+               {
+                  "id": 4,
+                  "name": "นก เหตุผลทางจิตวิทยาคือ คุณไม่มีความอดทนดังนั้นมีโอกาสที่จะกระทำสิ่งที่ไม่เหมาะสมหากมีแรงยั่วยุ ",
+                  "img": "https://images.unsplash.com/photo-1544717301-9cdcb1f5940f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+               }
             ]
          },
          {
             "id": 7,
             "quiz": "ถ้ามีเวทมนต์คุณอยากจะเสกให้สัตว์ชนิดใดเป็นสัตว์เลี้ยง",
             "choice": [
-               { "id": 1, "name": "ไดโนเสาร์", "img": "https://images.unsplash.com/photo-1548662954-1b1abc035c46?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"},
-               { "id": 2, "name": "เสือขาว", "img": "https://images.unsplash.com/photo-1503066211613-c17ebc9daef0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"},
-               { "id": 3, "name": "หมีขั้วโลก", "img": "https://images.unsplash.com/photo-1433769614376-f7231cd16a55?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"},
-               { "id": 4, "name": "เสือดาว", "img": "https://images.unsplash.com/photo-1569691105751-88df003de7a4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80" }
+               {
+                  "id": 1,
+                  "name": "ไดโนเสาร์",
+                  "img": "https://images.unsplash.com/photo-1548662954-1b1abc035c46?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+               },
+               {
+                  "id": 2,
+                  "name": "เสือขาว",
+                  "img": "https://images.unsplash.com/photo-1503066211613-c17ebc9daef0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+               },
+               {
+                  "id": 3,
+                  "name": "หมีขั้วโลก",
+                  "img": "https://images.unsplash.com/photo-1433769614376-f7231cd16a55?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+               },
+               {
+                  "id": 4,
+                  "name": "เสือดาว",
+                  "img": "https://images.unsplash.com/photo-1569691105751-88df003de7a4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1267&q=80"
+               }
             ],
             "result": [
-               { "id": 1, "name": "ไดโนเสาร์ เหตุผลทางจิตวิทยาคือ คุณเป็นคนมองโลกแง่ร้ายไม่อยากแต่งงาน", "img": "https://images.unsplash.com/photo-1494459158735-82f8feb14abb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1366&q=80"},
-               { "id": 2, "name": "เสือขาว เหตุผลทางจิตวิทยาคือ คุณคิดว่าการแต่งงานเป็นสิ่งที่มีค่าถ้าได้แต่งงานคุณจะประคับประคองชีวิตคู่ให้คงไว้ตลอดไป", "img": "https://images.unsplash.com/photo-1527529482837-4698179dc6ce?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"},
-               { "id": 3, "name": "หมีขั้วโลก เหตุผลทางจิตวิทยาคือ คุณกลัวการแต่งงานเพราะคิดว่ามันอาจทำให้คุณหมดอิสระ", "img": "https://images.unsplash.com/photo-1573164574144-649081e9421a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjM0MTM2fQ&auto=format&fit=crop&w=1350&q=80"},
-               { "id": 4, "name": "เสือดาว เหตุผลทางจิตวิทยาคือ คุณอยากแต่งงาน ทั้งๆ ที่ความจริงแล้วคุณไม่รู้อะไรเกี่ยวกับเรื่องการใช้ชีวิตคู่เลย ", "img": "https://images.unsplash.com/photo-1552711566-7e58cb1eeafd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80" }
+               {
+                  "id": 1,
+                  "name": "ไดโนเสาร์ เหตุผลทางจิตวิทยาคือ คุณเป็นคนมองโลกแง่ร้ายไม่อยากแต่งงาน",
+                  "img": "https://images.unsplash.com/photo-1494459158735-82f8feb14abb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1366&q=80"
+               },
+               {
+                  "id": 2,
+                  "name": "เสือขาว เหตุผลทางจิตวิทยาคือ คุณคิดว่าการแต่งงานเป็นสิ่งที่มีค่าถ้าได้แต่งงานคุณจะประคับประคองชีวิตคู่ให้คงไว้ตลอดไป",
+                  "img": "https://images.unsplash.com/photo-1527529482837-4698179dc6ce?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+               },
+               {
+                  "id": 3,
+                  "name": "หมีขั้วโลก เหตุผลทางจิตวิทยาคือ คุณกลัวการแต่งงานเพราะคิดว่ามันอาจทำให้คุณหมดอิสระ",
+                  "img": "https://images.unsplash.com/photo-1573164574144-649081e9421a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjM0MTM2fQ&auto=format&fit=crop&w=1350&q=80"
+               },
+               {
+                  "id": 4,
+                  "name": "เสือดาว เหตุผลทางจิตวิทยาคือ คุณอยากแต่งงาน ทั้งๆ ที่ความจริงแล้วคุณไม่รู้อะไรเกี่ยวกับเรื่องการใช้ชีวิตคู่เลย ",
+                  "img": "https://images.unsplash.com/photo-1552711566-7e58cb1eeafd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+               }
             ]
          },
          {
             "id": 8,
             "quiz": "คุณจะเลือกเป็นตัวอะไรถ้าหากสามารถแปลงเป็นสัตว์ได้ 5 นาที",
             "choice": [
-               { "id": 1, "name": "สิงโต", "img": "https://images.unsplash.com/photo-1575550959106-5a7defe28b56?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"},
-               { "id": 2, "name": "แมว", "img": "https://images.unsplash.com/photo-1494256997604-768d1f608cac?ixlib=rb-1.2.1&auto=format&fit=crop&w=1401&q=80"},
-               { "id": 3, "name": "ม้า", "img": "https://images.unsplash.com/flagged/photo-1557296126-ae91316e5746?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"},
-               { "id": 4, "name": "นกพิราบ", "img": "https://images.unsplash.com/photo-1507126882445-434b04530d1a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80" }
+               {
+                  "id": 1,
+                  "name": "สิงโต",
+                  "img": "https://images.unsplash.com/photo-1575550959106-5a7defe28b56?ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80"
+               },
+               {
+                  "id": 2,
+                  "name": "แมว",
+                  "img": "https://images.unsplash.com/photo-1494256997604-768d1f608cac?ixlib=rb-1.2.1&auto=format&fit=crop&w=1401&q=80"
+               },
+               {
+                  "id": 3,
+                  "name": "ม้า",
+                  "img": "https://images.unsplash.com/flagged/photo-1557296126-ae91316e5746?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+               },
+               {
+                  "id": 4,
+                  "name": "นกพิราบ",
+                  "img": "https://images.unsplash.com/photo-1507126882445-434b04530d1a?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+               }
             ],
             "result": [
-               { "id": 1, "name": "สิงโต เหตุผลทางจิตวิทยาคือ คุณมักจะเหนื่อยเสมอในเรื่องของความรักเพราะคุณยอมทำได้ทุกอย่างเพื่อคนที่รักแต่ก็ใช่ว่าคุณจะตกหลุมรักใครง่ายๆ", "img": "https://images.unsplash.com/photo-1531747056595-07f6cbbe10ad?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"},
-               { "id": 2, "name": "แมว เหตุผลทางจิตวิทยาคือ คุณรักตัวเองมากกว่าและคุณก็คิดว่าความรักเป็นแค่อารมณ์อะไรบางอย่างที่เกิดขึ้นเป็นครั้งคราวเท่านั้น", "img": "https://images.unsplash.com/photo-1499284389287-0d055f557eb5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"},
-               { "id": 3, "name": " ม้า เหตุผลทางจิตวิทยาคือ คุณไม่ต้องการจะทุ่มเทอะไรมากมายเพื่อความรักแต่สิ่งที่คุณทำไปทุกอย่างก็เพราะไม่อยากจะอยู่คนเดียวเพียงลำพังในโลกใบนี้เท่านั้น", "img": "https://images.unsplash.com/photo-1534630103086-5b1c106f74e0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1489&q=80"},
-               { "id": 4, "name": "นกพิราบ เหตุผลทางจิตวิทยาคือ คุณคิดว่าความรักนั้นคือการเปิดใจยอมรับที่จะใช้ชีวิตคู่กับใครสักคน", "img": "https://images.unsplash.com/photo-1522315641900-874dc98a7cbb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80" }
+               {
+                  "id": 1,
+                  "name": "สิงโต เหตุผลทางจิตวิทยาคือ คุณมักจะเหนื่อยเสมอในเรื่องของความรักเพราะคุณยอมทำได้ทุกอย่างเพื่อคนที่รักแต่ก็ใช่ว่าคุณจะตกหลุมรักใครง่ายๆ",
+                  "img": "https://images.unsplash.com/photo-1531747056595-07f6cbbe10ad?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+               },
+               {
+                  "id": 2,
+                  "name": "แมว เหตุผลทางจิตวิทยาคือ คุณรักตัวเองมากกว่าและคุณก็คิดว่าความรักเป็นแค่อารมณ์อะไรบางอย่างที่เกิดขึ้นเป็นครั้งคราวเท่านั้น",
+                  "img": "https://images.unsplash.com/photo-1499284389287-0d055f557eb5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+               },
+               {
+                  "id": 3,
+                  "name": " ม้า เหตุผลทางจิตวิทยาคือ คุณไม่ต้องการจะทุ่มเทอะไรมากมายเพื่อความรักแต่สิ่งที่คุณทำไปทุกอย่างก็เพราะไม่อยากจะอยู่คนเดียวเพียงลำพังในโลกใบนี้เท่านั้น",
+                  "img": "https://images.unsplash.com/photo-1534630103086-5b1c106f74e0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1489&q=80"
+               },
+               {
+                  "id": 4,
+                  "name": "นกพิราบ เหตุผลทางจิตวิทยาคือ คุณคิดว่าความรักนั้นคือการเปิดใจยอมรับที่จะใช้ชีวิตคู่กับใครสักคน",
+                  "img": "https://images.unsplash.com/photo-1522315641900-874dc98a7cbb?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80"
+               }
             ]
          }
       ],
       "ref": "https://horoscope.thaiza.com/content/95139/"
-   }   
+   }
 ]

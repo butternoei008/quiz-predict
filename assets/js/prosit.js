@@ -22,15 +22,15 @@ function showResult(choice_id, proposi_id, proposits) {
 
    $('#choice').html(`
       <div>
-         <h2><strong>คำตอบคุณคือ: </strong>${choice[0].name}</h2>
+         <h2><strong>คำตอบคุณคือ: </strong><span class="text-muted">${choice[0].name}</span></h2>
          <div class="img-predict">
             <img src="${predict.img}"/>
          </div>
-         <div class="text-center">
-            <h2>${predict.name}</h2>
-            <div>
-               <a href="index.html">กลับหน้าแรก</a>
-               <a href="">เล่นอีกครั้ง</a>
+         <div>
+            <h2 class="text-muted text-regular">${predict.name}</h2>
+            <div class="text-center">
+               <a class="btn btn-primary" href="index.html">กลับหน้าแรก</a>
+               <a class="btn btn-warning" href="">เล่นอีกครั้ง</a>
             </div>
          </div>
       </div>
